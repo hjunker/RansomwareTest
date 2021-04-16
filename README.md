@@ -7,4 +7,4 @@ To check whether you are prone to simple ransomware attacks, you just need to op
 
 You might want to put ifiwasevilyoudbefucked.ps1 on your own server to make sure nothing evil is downloaded from my website. You only need to change the URL in the macro of the word document.
 
-Functionality and GUI will be improved over time.
+The Word file might get blocked by your AV software (currently virustotal says 20/60 AVs detect this as malicious). I will probably add some more word files with non-trivial dropping functionality - but I am currently not doing this since I do not want to publish good dropper code for the bad guys. Functionality and GUI will also be improved over time.
